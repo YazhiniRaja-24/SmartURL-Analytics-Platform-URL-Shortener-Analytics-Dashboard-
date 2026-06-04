@@ -7,6 +7,10 @@ SmartURL Analytics Platform is a modern SaaS-style URL shortening and analytics 
 The platform provides detailed insights including click tracking, browser statistics, device analytics, country-wise analytics, and URL performance monitoring. The project is designed with a modern UI and focuses on delivering real-time analytics in an intuitive and visually appealing manner.
 
 ---
+## 🔗 Repository
+
+GitHub:
+https://github.com/YazhiniRaja-24/SmartURL-Analytics-Platform-URL-Shortener-Analytics-Dashboard-
 
 ## 🎯 Problem Statement
 
@@ -258,12 +262,12 @@ E --> H[Country Analytics]
 ```text
 SmartURL
 │
-├── frontend
+├── SmartURL-frontend
 │   ├── src
 │   ├── public
 │   └── package.json
 │
-├── backend
+├── SmartURL-backend
 │   ├── controllers
 │   ├── routes
 │   ├── models
@@ -374,14 +378,28 @@ Add screenshots in this section.
 
 ### Login Page
 
+![Login](screenshots/login.png)
+
 ### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
 
 ### Analytics
 
+![Analytics](screenshots/analytics.png)
+
 ### URL Management
 
----
+![URL Management](screenshots/url-management.png)
 
+---
+# 🌐 Live Deployment
+
+Frontend:
+(Add Vercel URL here)
+
+Backend API:
+(Add Render URL here)
 # 🎥 Demo Video
 
 YouTube Demo:

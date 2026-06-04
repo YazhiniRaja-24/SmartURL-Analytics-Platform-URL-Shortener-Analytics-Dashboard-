@@ -399,7 +399,7 @@ Frontend:
 (Add Vercel URL here)
 
 Backend API:
-(Add Render URL here)
+https://smarturl-analytics-platform-url-dta9.onrender.com
 # 🎥 Demo Video
 
 YouTube Demo:

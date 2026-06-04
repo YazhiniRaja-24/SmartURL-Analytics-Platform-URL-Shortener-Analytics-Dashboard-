@@ -433,4 +433,4 @@ SmartURL Analytics Platform successfully combines URL shortening with advanced a
 
 ---
 
-This project is a part of a hackathon run by https://katomaran.com this readme is oky?? or want to change anything
+This project is a part of a hackathon run by https://katomaran.com 
